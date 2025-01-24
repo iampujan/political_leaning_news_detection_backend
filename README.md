@@ -70,6 +70,8 @@ uvicorn app.main:app --host 0.0.0.0 --port 8080
 The server should start http://localhost:8080
 
 ### Frontend (React)
+Project Link: https://github.com/iampujan/ui-political-leaning-news-detection
+
 ```bash
 npm start
 ```
